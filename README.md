@@ -1,8 +1,8 @@
 # One Line, One Laugh — The Toaster's Two Settings
 
-[![make.fun](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
-[![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/kyuraa-ship-it/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
-[![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/kyuraa-ship-it/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![make.fun · u-plucky-finch-20-one-line-one-laugh-0ffe66ea](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/kyuraa-ship-it/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/kyuraa-ship-it/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
 An entry for the [make.fun](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea) bounty "One Line, One Laugh".
 
@@ -13,3 +13,11 @@ An entry for the [make.fun](https://make.fun/bounty/u-plucky-finch-20-one-line-o
 The joke turns on a familiar kitchen appliance with a personality: the toaster cannot toast, it can only burn — and it is proud of it. The punchline lands inside the line with no setup to supply.
 
 The entry is 93 characters, inside the 1–200 gate, a single line.
+
+## Run it
+
+```sh
+node main.ts
+```
+
+Entered on [make.fun](https://make.fun/?ref=g0wb6g14&utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
